@@ -1,0 +1,1 @@
+envsubst < secure.yaml > local.secure.yaml
