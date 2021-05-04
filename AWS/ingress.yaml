@@ -1,0 +1,2 @@
+annotations:
+    kubernetes.io/ingress.class: alb
